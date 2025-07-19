@@ -70,7 +70,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("Assets/BG.jpg");
+  background-image: url("../Assets/BG.jpg");
   background-size: cover;
   background-position: center;
   box-shadow: 500px 10px 150px black inset;
